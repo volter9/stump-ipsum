@@ -7,6 +7,11 @@
         "stump-ipsum": "./bin/generate.js"
     },
     
+    "repository": { 
+        "type": "git",
+        "url": "https://github.com/Volter9/stump-ipsum.git"
+    },
+    
     "dependencies": {
         "argparse": ">= 1.0.2"
     }
