@@ -2,6 +2,7 @@
     "name": "stump-ipsum",
     "description": "Забавный lorem ipsum для разработчиков",
     "author": "volter9",
+    "version": "0.1.0",
     
     "bin": {
         "stump-ipsum": "./bin/generate.js"
